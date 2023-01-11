@@ -13,9 +13,6 @@ CREATE TABLE `lib` (
   `link` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
---
--- Dumping data for table `lib`
---
 
 INSERT INTO `lib` (`id`, `img`, `judul`, `penulis`, `genre`, `link`) VALUES
 (23, '1CPvdtivn63bJ5BOmSOngFFiMqII6UwCU', 'Algorithm & DS C01', 'ipul', 'Others', '1GgzISEDwLQKtqZ-eW1-9-f6dGiu6P4vq'),
